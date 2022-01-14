@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+p{
+    color:black;
+    font-size: 15px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+}
+#cabecera{
+    color:brown;
+    font-family: cursive;
+}
